@@ -1,0 +1,52 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/asuka2020/rtap_ws/devel/include/**",
+        "/home/asuka2020/frontier/devel/include/**",
+        "/home/asuka2020/rrt_ws/devel/include/**",
+        "/home/asuka2020/qingzhou_simulation/devel/include/**",
+        "/home/asuka2020/dm-vio-ros_ws/devel/include/**",
+        "/home/asuka2020/my_realsense_ws/devel/include/**",
+        "/home/asuka2020/my_mavros_ws/devel/include/**",
+        "/home/asuka2020/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/asuka2020/catkin_ws/src/costmap_converter/include/**",
+        "/home/asuka2020/my_realsense_ws/src/ddynamic_reconfigure-kinetic-devel/include/**",
+        "/home/asuka2020/dm-vio-ros_ws/src/dm-vio-ros/include/**",
+        "/home/asuka2020/catkin_ws/src/formation_sim/include/**",
+        "/home/asuka2020/frontier/src/frontier_exploration_occupancygrid/include/**",
+        "/home/asuka2020/ldlidar_ws/src/ldlidar/include/**",
+        "/home/asuka2020/my_mavros_ws/src/mavros/libmavconn/include/**",
+        "/home/asuka2020/my_mavros_ws/src/mavros/mavros/include/**",
+        "/home/asuka2020/my_mavros_ws/src/mavros/mavros_msgs/include/**",
+        "/home/asuka2020/my_realsense_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/asuka2020/rrt_ws/src/rrt_exploration/include/**",
+        "/home/asuka2020/rtap_ws/src/rtabmap_ros/rtabmap_conversions/include/**",
+        "/home/asuka2020/rtap_ws/src/rtabmap_ros/rtabmap_costmap_plugins/include/**",
+        "/home/asuka2020/rtap_ws/src/rtabmap_ros/rtabmap_odom/include/**",
+        "/home/asuka2020/rtap_ws/src/rtabmap_ros/rtabmap_rviz_plugins/include/**",
+        "/home/asuka2020/rtap_ws/src/rtabmap_ros/rtabmap_slam/include/**",
+        "/home/asuka2020/rtap_ws/src/rtabmap_ros/rtabmap_sync/include/**",
+        "/home/asuka2020/rtap_ws/src/rtabmap_ros/rtabmap_util/include/**",
+        "/home/asuka2020/rtap_ws/src/rtabmap_ros/rtabmap_viz/include/**",
+        "/home/asuka2020/qingzhou/src/steer_drive_ros/steer_bot_hardware_gazebo/include/**",
+        "/home/asuka2020/qingzhou/src/steer_drive_ros/steer_drive_controller/include/**",
+        "/home/asuka2020/qingzhou/src/steer_drive_ros/stepback_and_steerturn_recovery/include/**",
+        "/home/asuka2020/my_mavros_ws/src/mavros/test_mavros/include/**",
+        "/home/asuka2020/qingzhou_simulation/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
